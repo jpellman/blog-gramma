@@ -1,0 +1,8 @@
+name: 'Gramma'
+description: 'This action checks for grammar mistakes (but not spelling mistakes) within my blog and MkDocs repositories.'
+outputs:
+  grammaOut: 
+    description: 'The output of the grammar check'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
