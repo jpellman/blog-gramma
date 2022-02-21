@@ -4,4 +4,4 @@ This action checks for grammar mistakes (but not spelling mistakes) within my bl
 
 ## Example usage
 
-uses: jpellman/docker-gramma@v1
+uses: jpellman/blog-gramma@v1
